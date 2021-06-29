@@ -1,0 +1,52 @@
+[
+  {
+    "idUnidad": 736461,
+    "noSerie": "RSERIE1A",
+    "noInventario": "111111",
+    "nombreEquipo": "EQUIPO001",
+    "ip": "1.1.1.1",
+    "idAr": 3187970
+  },
+  {
+    "idUnidad": 736462,
+    "noSerie": "RSERIE2A",
+    "noInventario": "222222",
+    "nombreEquipo": "EQUIPO002",
+    "ip": "2.2.2.2",
+    "idAr": 3187970
+  },
+  {
+    "idUnidad": 736463,
+    "noSerie": "RSERIE3A",
+    "noInventario": "333333",
+    "nombreEquipo": "EQUIPO003",
+    "ip": "3.3.3.3",
+    "idAr": 3187970
+  },
+  {
+    "idUnidad": 736461,
+    "noSerie": "RSERIE1AA",
+    "noInventario": "111111",
+    "nombreEquipo": "EQUIPO001",
+    "ip": "1.1.1.1",
+    "idAr": 3184170
+  },
+  {
+    "idUnidad": 736462,
+    "noSerie": "RSERIE2AA",
+    "noInventario": "222222",
+    "nombreEquipo": "EQUIPO002",
+    "ip": "2.2.2.2",
+    "idAr": 3184170
+  },
+  {
+    "idUnidad": 736461,
+    "noSerie": "RSERIE1AAA",
+    "noInventario": "111111",
+    "nombreEquipo": "EQUIPO001",
+    "ip": "1.1.1.1",
+    "idAr": 3185457
+  }
+
+
+]

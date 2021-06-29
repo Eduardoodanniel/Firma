@@ -1,0 +1,52 @@
+[
+  {
+    "ID_UNIDAD": 736461,
+    "NO_SERIE": "SERIE1A",
+    "NO_INVENTARIO": "111111",
+    "NOMBRE_EQUIPO": "EQUIPO001",
+    "IP": "1.1.1.1",
+    "ID_AR": 3187970
+  },
+  {
+    "ID_UNIDAD": 736462,
+    "NO_SERIE": "SERIE2A",
+    "NO_INVENTARIO": "222222",
+    "NOMBRE_EQUIPO": "EQUIPO002",
+    "IP": "2.2.2.2",
+    "ID_AR": 3187970
+  },
+  {
+    "ID_UNIDAD": 736463,
+    "NO_SERIE": "SERIE3A",
+    "NO_INVENTARIO": "333333",
+    "NOMBRE_EQUIPO": "EQUIPO003",
+    "IP": "3.3.3.3",
+    "ID_AR": 3187970
+  },
+  {
+    "ID_UNIDAD": 736464,
+    "NO_SERIE": "SERIE1A",
+    "NO_INVENTARIO": "111111",
+    "NOMBRE_EQUIPO": "EQUIPO001",
+    "IP": "1.1.1.1",
+    "ID_AR": 3184170
+  },
+  {
+    "ID_UNIDAD": 736465,
+    "NO_SERIE": "SERIE2A",
+    "NO_INVENTARIO": "222222",
+    "NOMBRE_EQUIPO": "EQUIPO002",
+    "IP": "2.2.2.2",
+    "ID_AR": 3184170
+  },
+  {
+    "ID_UNIDAD": 736467,
+    "NO_SERIE": "SERIE1A",
+    "NO_INVENTARIO": "111111",
+    "NOMBRE_EQUIPO": "EQUIPO001",
+    "IP": "1.1.1.1",
+    "ID_AR": 3185457
+  }
+
+
+]
